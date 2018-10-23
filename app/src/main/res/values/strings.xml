@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginModule</string>
+    <string name="aldreadysiginin">Aldready have an account? <u>Sign In</u></string>
+    <string name="signuptnc">By signing in you agree to <b>Terms Of Service</b> and <b>Private Policy</b></string>
+</resources>
